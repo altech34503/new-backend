@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.API\\StartupInvestorMatcher.API.csproj": {}
+    "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.API\\StartupInvestorMatcher.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.API\\StartupInvestorMatcher.API.csproj": {
+    "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.API\\StartupInvestorMatcher.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.API\\StartupInvestorMatcher.API.csproj",
+        "projectUniqueName": "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.API\\StartupInvestorMatcher.API.csproj",
         "projectName": "StartupInvestorMatcher.API",
-        "projectPath": "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.API\\StartupInvestorMatcher.API.csproj",
+        "projectPath": "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.API\\StartupInvestorMatcher.API.csproj",
         "packagesPath": "C:\\Users\\ale_c\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.API\\obj\\",
+        "outputPath": "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ale_c\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.Model\\StartupInvestorMatcher.Model.csproj": {
-                "projectPath": "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.Model\\StartupInvestorMatcher.Model.csproj"
+              "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.Model\\StartupinvestorMatcher.Model.csproj": {
+                "projectPath": "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.Model\\StartupinvestorMatcher.Model.csproj"
               }
             }
           }
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.Model\\StartupInvestorMatcher.Model.csproj": {
+    "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.Model\\StartupinvestorMatcher.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.Model\\StartupInvestorMatcher.Model.csproj",
-        "projectName": "StartupInvestorMatcher.Model",
-        "projectPath": "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.Model\\StartupInvestorMatcher.Model.csproj",
+        "projectUniqueName": "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.Model\\StartupinvestorMatcher.Model.csproj",
+        "projectName": "StartupinvestorMatcher.Model",
+        "projectPath": "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.Model\\StartupinvestorMatcher.Model.csproj",
         "packagesPath": "C:\\Users\\ale_c\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.Model\\obj\\",
+        "outputPath": "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.Model\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ale_c\\AppData\\Roaming\\NuGet\\NuGet.Config"

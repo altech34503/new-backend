@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/ididayE1pk=",
+  "dgSpecHash": "wzyT8tHA5TI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.Model\\StartupInvestorMatcher.Model.csproj",
+  "projectFilePath": "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.Model\\StartupinvestorMatcher.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ale_c\\.nuget\\packages\\microsoft.extensions.configuration\\9.0.4\\microsoft.extensions.configuration.9.0.4.nupkg.sha512",
     "C:\\Users\\ale_c\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\9.0.4\\microsoft.extensions.configuration.abstractions.9.0.4.nupkg.sha512",

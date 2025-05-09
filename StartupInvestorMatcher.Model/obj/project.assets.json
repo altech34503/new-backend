@@ -330,11 +330,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.Model\\StartupInvestorMatcher.Model.csproj",
+      "projectUniqueName": "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.Model\\StartupInvestorMatcher.Model.csproj",
       "projectName": "StartupInvestorMatcher.Model",
-      "projectPath": "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.Model\\StartupInvestorMatcher.Model.csproj",
+      "projectPath": "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.Model\\StartupInvestorMatcher.Model.csproj",
       "packagesPath": "C:\\Users\\ale_c\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ale_c\\Desktop\\APsim\\client 2\\StartupInvestorMatcher.Model\\obj\\",
+      "outputPath": "C:\\Users\\ale_c\\Desktop\\backend github\\client 2\\StartupInvestorMatcher.Model\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ale_c\\AppData\\Roaming\\NuGet\\NuGet.Config"
