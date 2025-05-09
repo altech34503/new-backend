@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StartupinvestorMatcher.Model")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9670392bca77646e22351f8986e20d4ef00825c2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4a5648f81ab92442f705c96b92a6c3cca11bc85c")]
 [assembly: System.Reflection.AssemblyProductAttribute("StartupinvestorMatcher.Model")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StartupinvestorMatcher.Model")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

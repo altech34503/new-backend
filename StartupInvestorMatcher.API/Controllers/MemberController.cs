@@ -3,6 +3,7 @@ using StartupInvestorMatcher.Model.Repositories;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System.Collections.Generic;
+using Microsoft.AspNetCore.Authorization;
 
 namespace StartupInvestorMatcher.API.Controllers  // Adjust namespace
 {
@@ -39,6 +40,7 @@ namespace StartupInvestorMatcher.API.Controllers  // Adjust namespace
 
         // Add a new Member
 [HttpPost]
+[AllowAnonymous]
 public ActionResult Post([FromBody] Member member)
 {
     if (member == null)
