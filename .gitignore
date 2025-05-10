@@ -36,3 +36,7 @@ project.nuget.cache
 
 # Ignore temporary files
 *.tmp
+
+# Ignore all files in Debug folders
+StartupInvestorMatcher.API/obj/Debug/
+StartupInvestorMatcher.Tests/bin/Debug/
