@@ -1,11 +1,30 @@
 # Ignore build output
 /bin/
 /obj/
+/ref/
+/refint/
 
 # Ignore NuGet-generated files
 *.csproj.nuget.g.props
 *.csproj.nuget.g.targets
+*.nuget.dgspec.json
 project.assets.json
+project.nuget.cache
+
+# Ignore build artifacts
+*.dll
+*.pdb
+*.exe
+*.cache
+*.deps.json
+*.runtimeconfig.json
+*.sourcelink.json
+*.editorconfig
+*.g.cs
+*.csproj.FileListAbsolute.txt
+*.AssemblyAttributes.cs
+*.AssemblyInfo.cs
+*.GlobalUsings.g.cs
 
 # Ignore user-specific files
 *.user
