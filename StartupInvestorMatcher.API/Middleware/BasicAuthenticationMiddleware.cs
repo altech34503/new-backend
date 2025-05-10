@@ -1,6 +1,7 @@
 using System;
 using System.Text;
 using Microsoft.AspNetCore.Authorization;
+using StartupInvestorMatcher.API.Middleware;
 
 public class BasicAuthenticationMiddleware
 {
@@ -30,14 +31,18 @@ public class BasicAuthenticationMiddleware
 
       // 3. Extract the username and password from the value by splitting it on space,
       // as the value looks something like 'Basic am9obi5kb2U6VmVyeVNlY3JldCE='
-      var auth = authHeaderValue.Split([' '])[1];
+
+      //var auth = authHeaderValue.Split([' '])[1];
 
       // 4. Convert it form Base64 encoded text, back to normal text
-      var usernameAndPassword = Encoding.UTF8.GetString(Convert.FromBase64String(auth));
+      
+      //var usernameAndPassword = Encoding.UTF8.GetString(Convert.FromBase64String(auth));
 
       // 5. Extract username and password, which are separated by a semicolon
-      var username = usernameAndPassword.Split([':'])[0];
-      var password = usernameAndPassword.Split([':'])[1];
+      //var username = usernameAndPassword.Split([':'])[0];
+      //var password = usernameAndPassword.Split([':'])[1];
+
+      AuthenticationHelper.Decrypt(authHeaderValue, out string username, out string password);
 
       // 6. Check if both username and password are correct
       if (username == USERNAME && password == PASSWORD) {

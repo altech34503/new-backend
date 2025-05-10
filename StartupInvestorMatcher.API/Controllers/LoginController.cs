@@ -2,6 +2,7 @@ using CourseAdminSystem.API.Model;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using StartupInvestorMatcher.API.Middleware;
 
 namespace CourseAdminSystem.API.Controllers
 {
@@ -18,14 +19,16 @@ namespace CourseAdminSystem.API.Controllers
       public ActionResult Login([FromBody] Login credentials) {
          if (credentials.Username == USERNAME && credentials.Password == PASSWORD) {
             // 1. Concatenate username and password with a semicolon
-            var text = $"{credentials.Username}:{credentials.Password}";
+            // var text = $"{credentials.Username}:{credentials.Password}";
 
             // 2. Base64encode the above
-            var bytes = System.Text.Encoding.Default.GetBytes(text);
-            var encodedCredentials = Convert.ToBase64String(bytes);  
+            // var bytes = System.Text.Encoding.Default.GetBytes(text);
+            // var encodedCredentials = Convert.ToBase64String(bytes);  
 
             // 3. Prefix with Basic
-            var headerValue = $"Basic {encodedCredentials}";
+            //var headerValue = $"Basic {encodedCredentials}";
+
+            var headerValue = AuthenticationHelper.Encrypt(credentials.Username, credentials.Password);
             return Ok(new { headerValue = headerValue });          
          }
          else {

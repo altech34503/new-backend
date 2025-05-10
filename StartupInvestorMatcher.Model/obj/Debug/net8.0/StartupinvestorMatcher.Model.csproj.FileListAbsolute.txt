@@ -35,16 +35,16 @@ C:\Users\ale_c\Desktop\APsim\client 2\StartupInvestorMatcher.Model\obj\Debug\net
 C:\Users\ale_c\Desktop\APsim\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupinvestorMatcher.Model.pdb
 C:\Users\ale_c\Desktop\APsim\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\ref\StartupinvestorMatcher.Model.dll
 C:\Users\ale_c\Desktop\APsim\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupinvestorMatcher.Model.sourcelink.json
-C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\bin\Debug\net8.0\StartupinvestorMatcher.Model.deps.json
-C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\bin\Debug\net8.0\StartupinvestorMatcher.Model.dll
-C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\bin\Debug\net8.0\StartupinvestorMatcher.Model.pdb
-C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupinvestorMatcher.Model.csproj.AssemblyReference.cache
-C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupinvestorMatcher.Model.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupinvestorMatcher.Model.AssemblyInfoInputs.cache
-C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupinvestorMatcher.Model.AssemblyInfo.cs
-C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupinvestorMatcher.Model.csproj.CoreCompileInputs.cache
-C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupinvestorMatcher.Model.sourcelink.json
-C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupinvestorMatcher.Model.dll
-C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\refint\StartupinvestorMatcher.Model.dll
-C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupinvestorMatcher.Model.pdb
-C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\ref\StartupinvestorMatcher.Model.dll
+C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\bin\Debug\net8.0\StartupInvestorMatcher.Model.deps.json
+c:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\bin\Debug\net8.0\StartupInvestorMatcher.Model.dll
+c:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\bin\Debug\net8.0\StartupInvestorMatcher.Model.pdb
+c:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupInvestorMatcher.Model.csproj.AssemblyReference.cache
+c:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupInvestorMatcher.Model.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupInvestorMatcher.Model.AssemblyInfoInputs.cache
+c:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupInvestorMatcher.Model.AssemblyInfo.cs
+c:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupInvestorMatcher.Model.csproj.CoreCompileInputs.cache
+c:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupInvestorMatcher.Model.sourcelink.json
+c:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupInvestorMatcher.Model.dll
+c:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\refint\StartupInvestorMatcher.Model.dll
+c:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\StartupInvestorMatcher.Model.pdb
+C:\Users\ale_c\Desktop\backend github\client 2\StartupInvestorMatcher.Model\obj\Debug\net8.0\ref\StartupInvestorMatcher.Model.dll
